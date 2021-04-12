@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="release_crawler">
+    <output-path>$PROJECT_DIR$/out/artifacts/release_crawler</output-path>
+    <root id="archive" name="1차_프로젝트.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="1차_프로젝트.main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.2/54ebea0a5b653d3c680131e73fe807bb8f78c4ed/commons-collections4-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.oracle/ojdbc6/11.2.0.3/de96f0060c7353532f4cb4a0b73d20545580fc91/ojdbc6-11.2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/org.jsoup/jsoup/1.13.1/f9577f3732bb7caa4fee8aba5053158f4010c118/jsoup-1.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-metadata/3.4.2/4b5493426bcc11f4ccd02d253ef33978b6521ec5/imageio-metadata-3.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-image/3.4.2/1fce13dbc445a7d521009b09ea5898f2f76a1b02/common-image-3.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.3/c845703de334ddc6b4b3cd26835458cb1cba1f3d/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-jpeg/3.4.2/a63b2154df2aad149edf196dc5b3ca090b06fae1/imageio-jpeg-3.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-io/3.4.2/c62a653b020436851137acdc2bc109aeeaf59034/common-io-3.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.8.1/6505a72a097d9270f7a9e7bf42c4238283247755/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-lang/3.4.2/987258a96c6d2fa90f7d74b0e71382047fb287ba/common-lang-3.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.opencsv/opencsv/4.4/525932a1edf46c9ca75aa9c83d31dc180c186865/opencsv-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.3/9abf61708a66ab5e55f6169a200dbfc584b546d9/commons-text-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-core/3.4.2/bde8b4379eab4f341ba95c14ebf2dcdc5d670da3/imageio-core-3.4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
