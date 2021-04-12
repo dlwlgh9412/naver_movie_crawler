@@ -378,7 +378,9 @@ public class ScrapMovie {
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            System.out.println("Before Memory: " + Runtime.getRuntime().totalMemory());
             scrapMovie(doc);
+            System.out.println("Used Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
         }
 
         // 영화리스트 페이지의 다음 버튼
